@@ -69,4 +69,4 @@ The script will leverage the CrewAI framework to process your idea and generate 
 ---
 ## 💻 Using Local Models with Ollama
 
-This example is designed to run entirely with
+This example is designed to run entirely with both closed and local models, by using tools such as Ollama, for enhanced flexibility and customization. This allows you to utilize your own models, which can be particularly useful for specialized tasks or data privacy concerns.
