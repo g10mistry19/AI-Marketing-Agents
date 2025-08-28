@@ -1,7 +1,7 @@
-# AI-Marketing-Agents
-A multi-agent system using Crew AI to automate Instagram content strategy and posting.
 
 # AI-Marketing-Agents 🤖✨
+
+A multi-agent system using Crew AI to automate Instagram content strategy and posting.
 
 An autonomous AI agent crew designed to strategize, create, and publish engaging content for Instagram. This project leverages the power of the CrewAI framework to simulate a collaborative marketing team, automating the entire content lifecycle from idea to post.
 
